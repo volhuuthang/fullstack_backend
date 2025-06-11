@@ -1,0 +1,19 @@
+{
+  "name": "fullstack_backend",
+  "version": "1.0.0",
+  "description": "toi bat dau hoc fullstack backend",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "fullstack",
+    "backend"
+  ],
+  "author": "Huu Thang",
+  "license": "ISC",
+  "dependencies": {
+    "express": "5.1.0"
+  }
+}
